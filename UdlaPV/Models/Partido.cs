@@ -7,6 +7,8 @@ namespace UdlaPV.Models
 {
     public class Partido
     {
+        public int IDPArtido { get; set; }
+
 
     }
 }
